@@ -29,3 +29,5 @@ The department wants to build a model that will help them identify the potential
 * **Pandas**
 * **Numpy**
 * **Matplotlib**
+
+![alt-text](https://github.com/emreyesilyurt/personal_loans_modelling/blob/master/images/corr.png?raw=true)
