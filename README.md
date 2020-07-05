@@ -4,7 +4,7 @@ This case is about a bank (Thera Bank) which has a growing customer base. Majori
 
 The department wants to build a model that will help them identify the potential customers who have a higher probability of purchasing the loan. This will increase the success ratio while at the same time reduce the cost of the campaign.
 
-
+## Content
 
 * **ID** : Customer ID
 * **Age** : Customer's age in completed years
@@ -21,3 +21,11 @@ The department wants to build a model that will help them identify the potential
 * **Online** : Does the customer use internet banking facilities?
 * **Credit card** : Does the customer use a credit card issued byUniversalBank?
 
+## Libraries Used
+
+* **Sklearn**
+* **Xgboost**
+* **Seaborn**
+* **Pandas**
+* **Numpy**
+* **Matplotlib**
